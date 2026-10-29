@@ -7,5 +7,6 @@ func main() {
 	comment()
 	variablePractice()
 	variablePracticeDeclaration()
+	ConstantPractise()
 
 }
