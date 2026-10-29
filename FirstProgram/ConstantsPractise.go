@@ -7,4 +7,11 @@ func ConstantPractise() {
 	const name = "Alice"
 	fmt.Println(pi)
 	fmt.Println(name)
+
+	const (
+		a = 2
+		b = 3
+	)
+	fmt.Println(a)
+	fmt.Println(b)
 }
